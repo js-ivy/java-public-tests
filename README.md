@@ -40,7 +40,10 @@ java-public-tests/
 ├── Zadanie2/
 │   ├── src/
 │   └── test/
-└── Zadanie3/
+├── Zadanie3/
+│   ├── src/
+│   └── test/
+└── Zadanie4/
     ├── src/
     └── test/
 ```
@@ -67,7 +70,7 @@ jego początku deklaracji `package`.
 6. Aby sprawdzić jedno zadanie, rozwiń jego moduł, następnie **Lifecycle** i
    uruchom dwukrotnym kliknięciem cel **test**.
 7. Aby sprawdzić wszystkie zadania, uruchom **test** w sekcji **Lifecycle**
-   nadrzędnego projektu `java-public-tests`. Wszystkie trzy rozwiązania muszą
+   nadrzędnego projektu `java-public-tests`. Wszystkie cztery rozwiązania muszą
    być wtedy obecne.
 
 Można również kliknąć prawym przyciskiem myszy klasę testową lub katalog
